@@ -1,1 +1,1 @@
-Este aruivo é leia-me do aula de git
+Este arquivo é leia-me do aula de git
