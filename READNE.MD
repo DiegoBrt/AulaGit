@@ -1,0 +1,1 @@
+Este aruivo é leia-me do aula de git
